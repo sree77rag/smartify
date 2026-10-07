@@ -1,2 +1,2 @@
 # smartify
-Smart_retail helps users to save their time in their grocery and other by paying themselves and provides a user friendly interface 
+Smart_retail helps users to save their time in their grocery and other by paying themselves 
